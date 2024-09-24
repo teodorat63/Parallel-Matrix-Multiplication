@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (VEZBA MPI.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  fajl.cpp
+C:\Users\lenovo\source\repos\VEZBA MPI\VEZBA MPI\fajl.cpp(45,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  VEZBA MPI.vcxproj -> C:\Users\lenovo\source\repos\VEZBA MPI\x64\Debug\VEZBA.exe
